@@ -12,3 +12,9 @@ out
 build
 .vscode
 bin
+
+# Local config
+debug.xml
+data/
+logs/
+web/
